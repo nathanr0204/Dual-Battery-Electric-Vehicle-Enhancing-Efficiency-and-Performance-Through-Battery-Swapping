@@ -1,0 +1,2 @@
+# Dual-Battery-Electric-Vehicle-Enhancing-Efficiency-and-Performance-Through-Battery-Swapping
+The dual battery system enhances power management by distributing the  energy load between two batteries. This approach minimizes battery  degradation, extends overall battery life, and ensures a more stable power  output during vehicle operation. Additionally, the system supports  regenerative braking, which further optimizes energy consumption.
